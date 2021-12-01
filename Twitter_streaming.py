@@ -10,10 +10,10 @@ import status
 from datetime import datetime
 
 # Variables that contains the user credentials to access Twitter API
-access_token = "363692281-UESNA3QF48lIpmEasMNf7HqmJMes2X4o5ZIcwl3K"
-access_token_secret = "4BGO9QsiXgVGjBCQDx3r8WquQVLzZ5gisHxITiqV1VdXI"
-consumer_key = "XtUT6tf4SO5pIkIbMNEeudzzp"
-consumer_secret = "DeqQFnoLq7x6XrE8d63xWtgbMHN97kQPhhPJQ3Zm2p9VfAKxhH"
+access_token = ""
+access_token_secret = ""
+consumer_key = "" 
+consumer_secret = ""
 
 
 # This is a basic listener that just prints received tweets to stdout.
